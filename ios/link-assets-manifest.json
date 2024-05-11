@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "com/matjarna/assets/fonts/DMSansBold.ttf",
+      "sha1": "e2465f11006633e4e4ac7652b543adfa6f0c26cd"
+    },
+    {
+      "path": "com/matjarna/assets/fonts/DMSansMedium.ttf",
+      "sha1": "65cb79753017741ff95b1ecd1689d56e96e2edbd"
+    },
+    {
+      "path": "com/matjarna/assets/fonts/DMSansRegular.ttf",
+      "sha1": "8599ebf95f6cd0694dfc3af43522b535fcbfba6d"
+    },
+    {
+      "path": "com/matjarna/assets/fonts/DMSansSemiBold.ttf",
+      "sha1": "fa1443d6c5de4532886f152c24840b1d1588a8bc"
+    }
+  ]
+}
